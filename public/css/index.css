@@ -1,21 +1,90 @@
 /*************************** Урок 4 *************************/
 /* ========= 1 ========= Урок 4 ==== */
+.lesson-four-task-one .btn:hover {
+    color: red;
+    background: yellow;
+}
 /* ========= 2 ========= Урок 4 ==== */
-/* ========= 3 ========= Урок 4 ==== */
+.lesson-four-task-two a:hover ~ h1 {
+    background: green;
+}
+/* ========= 3 ========= Урок 4 ====https://codepen.io/  */
+.lesson-four-task-three .link:visited {
+    color: yellow;
+  }
 /* ========= 4 ========= Урок 4 ==== */
+.lesson-four-task-four #sidebar .link:link {
+    color: red;
+}
 /* ========= 5 ========= Урок 4 ==== */
+.lesson-four-task-five .btn:active {
+    background: blue;
+}
 /* ========= 6 ========= Урок 4 ==== */
+.lesson-four-task-six .btn:focus {
+    color: orange;
+    background: orange;
+}
 /* ========= 7 ========= Урок 4 ==== */
+.lesson-four-task-seven #target:target {
+    color: white;
+    background: green;
+}
 /* ========= 8 ========= Урок 4 ==== */
+.lesson-four-task-eight #checkbox:checked ~ #target{
+    color: white;
+    background: blue;
+}
 /* ========= 9 ========= Урок 4 ==== */
+.lesson-four-task-nine p:lang(uk) {
+    color: blue;
+}
 /* ========= 10 ======== Урок 4 ==== */
+.lesson-four-task-ten input:enabled {
+    color: red;
+    background: yellow;
+}
 /* ========= 11 ======== Урок 4 ==== */
+.lesson-four-task-eleven input:disabled {
+    background: yellow;
+}
 /* ========= 12 ======== Урок 4 ==== */
+.lesson-four-task-twelve input:read-write {
+    background: yellow;
+}
 /* ========= 13 ======== Урок 4 ==== */
+.lesson-four-task-thirteen input:read-only {
+    background: yellow;
+}
 /* ========= 14 ======== Урок 4 ==== */
+.lesson-four-task-fourteen input:valid {
+    background: green;
+}
+.lesson-four-task-fourteen input:invalid {
+    background: red;
+}
 /* ========= 15 ======== Урок 4 ==== */
+.lesson-four-task-fifteen input:optional {
+    background: red;
+}
 /* ========= 16 ======== Урок 4 ==== */
+.lesson-four-task-sixteen input:out-of-range {
+    color: red;
+}
 /* ========= 17 ======== Урок 4 ==== */
+.lesson-four-task-seventeen input:in-range {
+    color: red;
+}
 /* ========= 18 ======== Урок 4 ==== */
+.lesson-four-task-eighteen input:placeholder-shown {
+    background: red;
+}
 /* ========= 19 ======== Урок 4 ==== */
+.lesson-four-task-nineteen button:focus-within {
+    color: white;
+    background: yellow;
+}
 /* ========= 20 ======== Урок 4 ==== */
+.lesson-four-task-twenty input:invalid {
+    background: red;
+}
